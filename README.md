@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sspark03
+- 👀 I’m interested in data science, digital design, and creative writing! 
+- 🌱 I’m currently learning SQL!
+- 📫 How to reach me: email me at ssp97@cornell.edu 
